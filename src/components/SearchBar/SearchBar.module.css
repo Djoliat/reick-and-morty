@@ -1,0 +1,30 @@
+.conteiner{
+    background-color:rgb(9, 191, 139); 
+    padding: 1em;
+    display: flex;
+
+    
+}
+
+.search{
+    background-color: yellow;
+    border: 0px;
+    border-radius: 15px 0px 0px 15px;
+    height: 3em;
+}
+
+ .button{
+    background-color: yellow;
+    border: 0px;
+    border-radius: 0px 15px 15px 0px;
+    height: 3em;
+}
+.button:hover{
+    transform: scale(1.15);
+}
+
+.search:hover{
+    transform: scale(1.15);
+    border: 5px black;
+
+}

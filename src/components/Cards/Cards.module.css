@@ -1,0 +1,15 @@
+.Card{
+    background-image: url("C:\Users\didie\Desktop\FT-M2\06-React-Intro\homework\02 - Integration\img\mortyPC.png");
+    background-size: cover;
+    background-position: center center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+
+
+    
+  }
